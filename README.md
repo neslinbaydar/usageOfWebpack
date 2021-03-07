@@ -2,7 +2,7 @@
 
 This is a simple explanation for Webpack.
 
-**Webpack is a static module bundler.🚀 **
+**Webpack is a static module bundler.🚀**
 
 # Webpack'in sağladığı bazı avantajlar :
 
