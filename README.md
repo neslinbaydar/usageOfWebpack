@@ -14,4 +14,15 @@ This is a simple explanation for Webpack.
 
 🎯 Yani webpack ile ```performans kaybı önleniyor```,bu işlemler çok daha ```düzenli bir şekilde``` ve ```tek bir dosya halinde``` oluşturulabiliyor.
 
+# npm run build ne işe yarıyor?
+
+🎯 Öncelikle projemizde terminali açıp ```npm init``` komutunu çalıştırdığımızda ```package.json``` dosyamız oluşur.
+
+🎯 Ve Webpack'in babel ile iletişime geçebilmesi için gerekli modülleri ```npm install @babel/core```,async ve await'in çalışması için ```npm install @babel/polyfill```, ES6'dan
+
+sonra gelen standartları yüklemek için ```npm install @babel/preset-env``` şeklinde bir modül, Webpack ile babel arasındaki ilişi için ```npm install babel-loader``` komutunu
+
+çalıştırırız.
+
+
 
