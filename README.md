@@ -32,7 +32,7 @@ sonra gelen standartları yüklemek için ```npm install @babel/preset-env``` ş
 
 🎯 Bu sayede oluşan bu **bundles.js** dosyası projemizdeki JavaScript dosyalarımızı tek bir dosya haline çevirecek.Ve bir ```dependency graph (bağımlılık grafiği)```ortaya çıkaracak. 
 
-
+[Click for more information🔎](https://webpack.js.org/)
 
 
 
